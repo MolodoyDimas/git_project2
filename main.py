@@ -1,3 +1,6 @@
-from funcs import summa
+from funcs import summa, minys
+
 
 print(summa())
+
+print(minys())
